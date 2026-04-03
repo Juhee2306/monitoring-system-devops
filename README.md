@@ -1,4 +1,4 @@
-# Monitoring & Alerting System (DevOps Project)
+# Monitoring & Alerting System 
 
 ## Overview
 This project demonstrates a complete **end-to-end monitoring and alerting system** using Prometheus, Grafana, and Docker.
